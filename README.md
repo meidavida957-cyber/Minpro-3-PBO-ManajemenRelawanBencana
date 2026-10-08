@@ -43,7 +43,6 @@ Sistem Manajemen Relawan Bencana adalah program berbasis console (Java) yang dig
 | 8 | Tampilkan Penempatan | Menampilkan relawan yang bertugas di tiap bencana |
 | 9 | Keluar | Mengakhiri program |
 
-![Menu Utama]
 <img width="154" height="140" alt="Screenshot 2026-10-08 182004" src="https://github.com/user-attachments/assets/10e47b21-5adf-4d07-913e-52f7b5eef594" />
 
 
