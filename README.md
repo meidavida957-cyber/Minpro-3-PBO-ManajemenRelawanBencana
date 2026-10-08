@@ -281,7 +281,9 @@ for (Relawan relawan : daftarRelawan) {
 }
 ```
 
-![Tampilan Relawan](screenshots/02-tampil-relawan.png)
+<img width="212" height="260" alt="Screenshot 2026-10-08 183157" src="https://github.com/user-attachments/assets/b959683b-de9d-4e78-8eb3-bda9e98b465a" />
+<img width="193" height="154" alt="Screenshot 2026-10-08 183326" src="https://github.com/user-attachments/assets/f3b0a3e8-bddf-42ba-9d34-f052bcb9f3b3" />
+
 
 ### Polymorphism: Overloading
 *Overloading* adalah beberapa method bernama sama dalam satu class dengan daftar parameter berbeda. Pada `Relawan`:
