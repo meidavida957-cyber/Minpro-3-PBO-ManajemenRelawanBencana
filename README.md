@@ -283,6 +283,8 @@ for (Relawan relawan : daftarRelawan) {
 
 <img width="212" height="260" alt="Screenshot 2026-10-08 183157" src="https://github.com/user-attachments/assets/b959683b-de9d-4e78-8eb3-bda9e98b465a" />
 <img width="193" height="154" alt="Screenshot 2026-10-08 183326" src="https://github.com/user-attachments/assets/f3b0a3e8-bddf-42ba-9d34-f052bcb9f3b3" />
+<img width="277" height="259" alt="Screenshot 2026-10-08 183659" src="https://github.com/user-attachments/assets/5690adf9-5e0f-4c01-90f0-05268d66b202" />
+
 
 
 ### Polymorphism: Overloading
@@ -351,19 +353,20 @@ public interface DapatDitugaskan {
 
 **Input menu salah**
 
-![Input Menu Salah](screenshots/03-input-menu-salah.png)
+<img width="262" height="149" alt="Screenshot 2026-10-08 183909" src="https://github.com/user-attachments/assets/43050a0b-3dc6-41de-81dc-e4ed8cc2d2d9" />
+<img width="274" height="152" alt="Screenshot 2026-10-08 183920" src="https://github.com/user-attachments/assets/b0c6a6c3-bdc8-4499-b82e-34cd04a59f03" />
 
 **Validasi tambah bencana**
 
-![Validasi Bencana](screenshots/04-validasi-bencana.png)
+<img width="290" height="221" alt="Screenshot 2026-10-08 184552" src="https://github.com/user-attachments/assets/656caf9a-ecff-429f-b036-6bfe0d729c3d" />
 
 **Penempatan ganda ditolak**
 
-![Penempatan Ganda](screenshots/05-penempatan-ganda.png)
+<img width="314" height="245" alt="Screenshot 2026-10-08 184723" src="https://github.com/user-attachments/assets/6609b08c-99ae-4e7b-8f48-45b1350df202" />
 
 **Daftar penempatan**
 
-![Tampil Penempatan](screenshots/06-tampil-penempatan.png)
+<img width="257" height="214" alt="Screenshot 2026-10-08 184858" src="https://github.com/user-attachments/assets/00e79c04-0570-40d8-b86f-068b80e6a3a4" />
 
 ---
 
